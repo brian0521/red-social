@@ -38,3 +38,5 @@
 [2018-09-26 08:02:10.700] [exthost1] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":false,"activationEvent":"onLanguage:php"}
 [2018-09-26 08:02:10.700] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/felixfbecker.php-intellisense-2.3.5/out/extension
 [2018-09-26 08:02:15.918] [exthost1] [info] eager extensions activated
+[2018-09-26 08:56:38.950] [exthost1] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"activationEvent":"onLanguage:blade"}
+[2018-09-26 08:56:38.950] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/onecentlin.laravel-blade-1.18.0/out/src/extension

@@ -1,0 +1,18 @@
+[2018-09-26 10:20:55.487] [renderer1] [info] no standard startup: not just one text editor
+[2018-09-26 10:23:52.628] [renderer1] [error] spawn git EMFILE: Error: spawn git EMFILE
+    at _errnoException (util.js:1024:11)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+[2018-09-26 10:23:55.321] [renderer1] [error] Cannot read property 'stack' of null: TypeError: Cannot read property 'stack' of null
+    at process.on (/home/jfvilladiego/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.735/out/src/util.js:390:21)
+    at emitTwo (events.js:131:20)
+    at process.emit (events.js:214:7)
+    at process.emit (/home/jfvilladiego/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.735/node_modules/source-map-support/source-map-support.js:454:21)
+    at process.emit (/home/jfvilladiego/.vscode/extensions/zignd.html-css-class-completion-1.17.1/node_modules/source-map-support/source-map-support.js:453:21)
+    at emitPendingUnhandledRejections (internal/process/promises.js:94:22)
+    at runMicrotasksCallback (internal/process/next_tick.js:124:9)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+[2018-09-26 10:23:56.754] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
