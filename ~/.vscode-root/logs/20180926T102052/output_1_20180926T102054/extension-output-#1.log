@@ -68,3 +68,4 @@ Open repository: /home/jfvilladiego/proyectos_laravel/red-social
 > git rev-list --left-right master...refs/remotes/origin/master
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git check-ignore -z --stdin
