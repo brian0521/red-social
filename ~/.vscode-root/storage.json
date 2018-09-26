@@ -440,5 +440,25 @@
             "file:///home/jfvilladiego/proyectos_laravel/red-social"
         ],
         "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/jfvilladiego/proyectos_laravel/red-social",
+                "external": "file:///home/jfvilladiego/proyectos_laravel/red-social",
+                "path": "/home/jfvilladiego/proyectos_laravel/red-social",
+                "scheme": "file"
+            },
+            "backupPath": "/home/jfvilladiego/proyectos_laravel/red-social/~/.vscode-root/Backups/70c9831ad2328dff2467f1ff854bcfdb",
+            "uiState": {
+                "mode": 1,
+                "x": 208,
+                "y": 96,
+                "width": 1024,
+                "height": 768
+            }
+        }
     }
 }
