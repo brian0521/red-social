@@ -108,3 +108,5 @@
 [2018-10-01 11:43:48.734] [exthost1] [info] eager extensions activated
 [2018-10-01 12:28:04.581] [exthost1] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"activationEvent":"onLanguage:blade"}
 [2018-10-01 12:28:04.581] [exthost1] [info] ExtensionService#loadCommonJSModule /home/jfvilladiego/.vscode/extensions/onecentlin.laravel-blade-1.18.0/out/src/extension
+[2018-10-01 13:58:19.813] [exthost1] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2018-10-01 13:58:19.813] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/out/phpMain

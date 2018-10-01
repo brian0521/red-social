@@ -4,3 +4,11 @@
 [2018-10-01 11:42:56.520] [main] [warning] [electron event]: fail to load,  OK
 [2018-10-01 11:48:45.676] [main] [info] update#setState checking for updates
 [2018-10-01 11:48:46.129] [main] [info] update#setState idle
+[2018-10-01 12:48:45.680] [main] [info] update#setState checking for updates
+[2018-10-01 12:48:45.692] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2018-10-01 12:48:45.692] [main] [info] update#setState idle
+[2018-10-01 13:48:45.714] [main] [info] update#setState checking for updates
+[2018-10-01 13:48:45.720] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2018-10-01 13:48:45.721] [main] [info] update#setState idle
+[2018-10-01 14:48:45.748] [main] [info] update#setState checking for updates
+[2018-10-01 14:48:46.408] [main] [info] update#setState idle
