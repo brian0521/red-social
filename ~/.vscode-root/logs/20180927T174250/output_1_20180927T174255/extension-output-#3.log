@@ -1,0 +1,291 @@
+[Info  - 5:46:53 p. m.] 5272 files total
+[Info  - 5:46:53 p. m.] Indexing project for definitions and static references
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/eec91555304c1b5e9ee0d5a085e84c85e0ddac4f.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/a7c217cea1aa6c2d5cfcd4dc32f6e9ae07fdc4da.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/c5b3a5d73aaaf6555e1eb599dac8d3457252faf9.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/fba465a017beff10485c3502dfb550fe1d1dabf2.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/8546691696f0a6600ce77ddb200a17064021d1d0.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/8367c32eddc68d5402311f05a47f7848429b9737.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/5ad4f00aa96684059bfcd3ffbda9af183330c598.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/644d4052f549abd1b27fac7d1770fd9b0049583b.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/broadcasting.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/queue.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/session.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/database.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/filesystems.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/logging.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/hashing.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/mail.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/cache.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/view.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/CheckForMaintenanceMode.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/TrustProxies.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/Authenticate.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/VerificationController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/HomeController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/PostController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Controller.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/AuthServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/EventServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/AppServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/RouteServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Exceptions/Handler.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/User.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Post.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Console/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/server.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/bootstrap/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/bootstrap/cache/packages.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/bootstrap/cache/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/routes/api.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/routes/console.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/routes/channels.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/Feature/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/Unit/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/CreatesApplication.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/TestCase.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/public/index.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/seeds/DatabaseSeeder.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/migrations/2018_09_26_130105_create_posts_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/factories/PostFactory.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/factories/UserFactory.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_psr4.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_files.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_static.php
+[Info  - 5:46:55 p. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (467591)
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_real.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_classmap.php
+[Info  - 5:46:55 p. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (425430)
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/ClassLoader.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_namespaces.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/autoload.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/passwords.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/validation.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/pagination.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/create.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/edit.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/show.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/index.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/home.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/welcome.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/layouts/template.blade.php
+[Info  - 5:46:55 p. m.] Indexing project for dynamic references
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/eec91555304c1b5e9ee0d5a085e84c85e0ddac4f.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/a7c217cea1aa6c2d5cfcd4dc32f6e9ae07fdc4da.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/c5b3a5d73aaaf6555e1eb599dac8d3457252faf9.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/fba465a017beff10485c3502dfb550fe1d1dabf2.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/8546691696f0a6600ce77ddb200a17064021d1d0.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/8367c32eddc68d5402311f05a47f7848429b9737.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/5ad4f00aa96684059bfcd3ffbda9af183330c598.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/storage/framework/views/644d4052f549abd1b27fac7d1770fd9b0049583b.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/broadcasting.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/queue.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/session.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/database.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/filesystems.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/logging.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/hashing.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/mail.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/cache.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/config/view.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/CheckForMaintenanceMode.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/TrustProxies.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Middleware/Authenticate.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/VerificationController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/HomeController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/PostController.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Http/Controllers/Controller.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/AuthServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/EventServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/AppServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Providers/RouteServiceProvider.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Exceptions/Handler.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/User.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Post.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/app/Console/Kernel.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/server.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/bootstrap/app.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/bootstrap/cache/packages.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/bootstrap/cache/services.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/routes/api.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/routes/console.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/routes/channels.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/Feature/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/Unit/ExampleTest.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/CreatesApplication.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/tests/TestCase.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/public/index.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/seeds/DatabaseSeeder.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/migrations/2018_09_26_130105_create_posts_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/factories/PostFactory.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/database/factories/UserFactory.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_psr4.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_files.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_static.php
+[Info  - 5:46:55 p. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (467591)
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_real.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_classmap.php
+[Info  - 5:46:55 p. m.] Ignoring file file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (425430)
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/ClassLoader.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/composer/autoload_namespaces.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/autoload.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/passwords.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/validation.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/auth.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/lang/en/pagination.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/create.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/edit.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/show.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/users/index.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/home.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/welcome.blade.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/resources/views/layouts/template.blade.php
+[Info  - 5:46:56 p. m.] 72 Packages
+[Info  - 5:46:56 p. m.] Restored vlucas/phpdotenv:2.5.1 from cache
+[Info  - 5:46:56 p. m.] Restored mockery/mockery:1.1.0 from cache
+[Info  - 5:46:56 p. m.] Restored filp/whoops:2.2.1 from cache
+[Info  - 5:46:56 p. m.] Restored jakub-onderka/php-console-highlighter:0.3.2 from cache
+[Info  - 5:46:56 p. m.] Restored jakub-onderka/php-console-color:0.1 from cache
+[Info  - 5:46:56 p. m.] Restored fzaninotto/faker:1.8.0 from cache
+[Info  - 5:46:56 p. m.] Indexing sven/artisan-view:3.0.1 for definitions and static references
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Commands/ScrapView.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Commands/MakeView.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/ViewActor.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Exceptions/UnsupportedException.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/YieldsFromParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/StacksFromParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/SectionsInParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/ExtendsParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/Voter.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Destroyer.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/BlockStack.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/BlockBuilder.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/PathHelper.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Generator.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Config.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Extend.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Block.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Section.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/InlineSection.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Push.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/ServiceProvider.php
+[Info  - 5:46:57 p. m.] Indexing sven/artisan-view:3.0.1 for dynamic references
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Commands/ScrapView.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Commands/MakeView.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/ViewActor.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Exceptions/UnsupportedException.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/YieldsFromParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/StacksFromParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/SectionsInParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/ExtendsParent.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Voters/Voter.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Destroyer.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/BlockStack.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/BlockBuilder.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/PathHelper.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Generator.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Config.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Extend.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Block.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Section.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/InlineSection.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/Blocks/Push.php
+Parsing file:///home/jfvilladiego/proyectos_laravel/red-social/vendor/sven/artisan-view/src/ServiceProvider.php
+[Info  - 5:46:57 p. m.] Storing sven/artisan-view:3.0.1 in cache
+[Info  - 5:46:57 p. m.] Restored nikic/php-parser:4.0.4 from cache
+[Info  - 5:46:57 p. m.] Restored doctrine/instantiator:1.1.0 from cache
+[Info  - 5:46:58 p. m.] Restored doctrine/inflector:1.3.0 from cache
+[Info  - 5:46:58 p. m.] Restored doctrine/lexer:1.0.1 from cache
+[Info  - 5:46:58 p. m.] Restored myclabs/deep-copy:1.8.1 from cache
+[Info  - 5:46:58 p. m.] Restored phpunit/php-token-stream:3.0.0 from cache
+[Info  - 5:46:58 p. m.] Restored phpunit/php-timer:2.0.0 from cache
+[Info  - 5:46:59 p. m.] Restored phpunit/phpunit:7.3.5 from cache
+[Info  - 5:46:59 p. m.] Restored phpunit/php-code-coverage:6.0.7 from cache
+[Info  - 5:46:59 p. m.] Restored phpunit/php-text-template:1.2.1 from cache
+[Info  - 5:46:59 p. m.] Restored phpunit/php-file-iterator:2.0.2 from cache
+[Info  - 5:46:59 p. m.] Restored beyondcode/laravel-dump-server:1.2.1 from cache
+[Info  - 5:46:59 p. m.] Restored egulias/email-validator:2.1.5 from cache
+[Info  - 5:46:59 p. m.] Restored psr/container:1.0.0 from cache
+[Info  - 5:46:59 p. m.] Restored psr/log:1.0.2 from cache
+[Info  - 5:46:59 p. m.] Restored psr/simple-cache:1.0.1 from cache
+[Info  - 5:46:59 p. m.] Restored erusev/parsedown:1.7.1 from cache
+[Info  - 5:46:59 p. m.] Restored fideloper/proxy:4.0.0 from cache
+[Info  - 5:46:59 p. m.] Restored phpspec/prophecy:1.8.0 from cache
+[Info  - 5:46:59 p. m.] Restored hamcrest/hamcrest-php:2.0.0 from cache
+[Info  - 5:47:00 p. m.] Restored laravel/tinker:1.0.7 from cache
+[Info  - 5:47:00 p. m.] Restored laravel/framework:5.7.6 from cache
+[Info  - 5:47:00 p. m.] Restored symfony/debug:4.1.4 from cache
+[Info  - 5:47:00 p. m.] Restored symfony/translation:4.1.4 from cache
+[Info  - 5:47:00 p. m.] Restored symfony/http-kernel:4.1.4 from cache
+[Info  - 5:47:00 p. m.] Restored symfony/event-dispatcher:4.1.4 from cache
+[Info  - 5:47:00 p. m.] Restored symfony/polyfill-php72:1.9.0 from cache
+[Info  - 5:47:00 p. m.] Restored symfony/process:4.1.4 from cache
+[Info  - 5:47:01 p. m.] Restored symfony/css-selector:4.1.4 from cache
+[Info  - 5:47:01 p. m.] Restored symfony/polyfill-mbstring:1.9.0 from cache
+[Info  - 5:47:01 p. m.] Restored symfony/polyfill-ctype:1.9.0 from cache
+[Info  - 5:47:01 p. m.] Restored symfony/http-foundation:4.1.4 from cache
+[Info  - 5:47:01 p. m.] Restored symfony/console:4.1.4 from cache
+[Info  - 5:47:01 p. m.] Restored symfony/routing:4.1.4 from cache
+[Info  - 5:47:01 p. m.] Restored symfony/finder:4.1.4 from cache
+[Info  - 5:47:02 p. m.] Restored symfony/var-dumper:4.1.4 from cache
+[Info  - 5:47:02 p. m.] Restored theseer/tokenizer:1.1.0 from cache
+[Info  - 5:47:02 p. m.] Restored nunomaduro/collision:2.0.3 from cache
+[Info  - 5:47:02 p. m.] Restored dragonmantank/cron-expression:2.2.0 from cache
+[Info  - 5:47:02 p. m.] Restored ramsey/uuid:3.8.0 from cache
+[Info  - 5:47:02 p. m.] Restored psy/psysh:0.9.8 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/code-unit-reverse-lookup:1.0.1 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/object-reflector:1.1.1 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/object-enumerator:3.0.3 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/comparator:3.0.2 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/exporter:3.1.0 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/recursion-context:3.0.0 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/environment:3.1.0 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/global-state:2.0.0 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/diff:3.0.1 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/version:2.0.1 from cache
+[Info  - 5:47:02 p. m.] Restored sebastian/resource-operations:1.0.0 from cache
+[Info  - 5:47:02 p. m.] Restored webmozart/assert:1.3.0 from cache
+[Info  - 5:47:02 p. m.] Restored phpdocumentor/reflection-docblock:4.3.0 from cache
+[Info  - 5:47:03 p. m.] Restored phpdocumentor/reflection-common:1.0.1 from cache
+[Info  - 5:47:03 p. m.] Restored phpdocumentor/type-resolver:0.4.0 from cache
+[Info  - 5:47:03 p. m.] Restored nesbot/carbon:1.34.0 from cache
+[Info  - 5:47:03 p. m.] Restored paragonie/random_compat:9.99.99 from cache
+[Info  - 5:47:03 p. m.] Restored monolog/monolog:1.23.0 from cache
+[Info  - 5:47:03 p. m.] Restored dnoegel/php-xdg-base-dir:0.1 from cache
+[Info  - 5:47:03 p. m.] Restored phar-io/manifest:1.0.3 from cache
+[Info  - 5:47:03 p. m.] Restored phar-io/version:2.0.1 from cache
+[Info  - 5:47:04 p. m.] Restored tijsverkoyen/css-to-inline-styles:2.2.1 from cache
+[Info  - 5:47:04 p. m.] Restored swiftmailer/swiftmailer:6.1.3 from cache
+[Info  - 5:47:04 p. m.] Restored league/flysystem:1.0.47 from cache
+[Info  - 5:47:04 p. m.] All 5272 PHP files parsed in 10 seconds. 400 MiB allocated.
