@@ -14,7 +14,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-                    Bienvenido!
+                    Bienvenido! hola
                 </div>
             </div>
         </div>
