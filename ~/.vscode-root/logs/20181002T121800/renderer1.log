@@ -1,0 +1,7 @@
+[2018-10-02 12:18:05.017] [renderer1] [info] no standard startup: panel is active
+[2018-10-02 12:18:35.712] [renderer1] [error] spawn git EMFILE: Error: spawn git EMFILE
+    at _errnoException (util.js:1024:11)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
