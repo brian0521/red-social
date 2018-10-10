@@ -16,7 +16,7 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('users','UserController@index');
+Route::resource('users','UserController');
 
 Auth::routes();
 
